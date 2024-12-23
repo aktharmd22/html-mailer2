@@ -1,0 +1,341 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: emailer.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: pixels
+Artboard Dimensions: 600 px x 1321.4399 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Bebas Neue Book (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Sansation Regular (TrueType)
+Bebas Neue Regular (OTF)
+Bebas Neue Bold (OTF)
+Avenir Next LT Pro (OTF)
+Avenir Next LT Pro Demi (OTF)
+Avenir Next LT Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 393.701 by 393.701 points 
+Resolution: 365.76 by 365.76 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 6.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 445.541 by 445.541 points 
+Resolution: 323.202 by 323.202 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 7.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 380.021 by 380.021 points 
+Resolution: 378.926 by 378.926 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 8.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 459.941 by 459.941 points 
+Resolution: 313.083 by 313.083 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06486.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 179.28 by 268.92 points 
+Resolution: 361.446 by 361.446 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06494.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 206.227 by 309.341 points 
+Resolution: 314.217 by 314.217 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06486.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 133.925 by 200.888 points 
+Resolution: 483.852 by 483.852 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 488.741 by 488.741 points 
+Resolution: 294.634 by 294.634 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 110.875 by 110.875 points 
+Resolution: 1298.757 by 1298.757 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 8.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 129.53 by 129.53 points 
+Resolution: 1111.712 by 1111.712 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 7.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 132.259 by 132.259 points 
+Resolution: 1088.771 by 1088.771 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06486.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 119.306 by 178.96 points 
+Resolution: 543.139 by 543.139 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06351.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 900 by 1350 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 131.118 by 131.118 points 
+Resolution: 1098.247 by 1098.247 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 5.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 131.118 by 131.118 points 
+Resolution: 1098.247 by 1098.247 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 131.118 by 131.118 points 
+Resolution: 1098.247 by 1098.247 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06419.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 280.667 by 421.001 points 
+Resolution: 230.879 by 230.879 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06432.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 199.4 by 299.1 points 
+Resolution: 324.975 by 324.975 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06351.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 140.1 by 210.15 points 
+Resolution: 462.527 by 462.527 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06494.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 176.1 by 264.151 points 
+Resolution: 367.972 by 367.972 pixels per inch
+
+
+C:\Users\salon\Downloads\banner2 (1).png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 871K, 794 by 282 pixels
+Dimensions: 824.509 by 291.797 points 
+Resolution: 69.336 by 69.336 pixels per inch
+
+
+C:\Users\salon\Downloads\banner1.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5063K, 1666 by 778 pixels
+Dimensions: 425.965 by 198.92 points 
+Resolution: 281.601 by 281.601 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06494.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 252.768 by 379.153 points 
+Resolution: 256.361 by 256.361 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06486.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 206.003 by 309.005 points 
+Resolution: 314.558 by 314.558 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06432.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 260.244 by 390.366 points 
+Resolution: 248.997 by 248.997 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 5.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 131.118 by 131.118 points 
+Resolution: 1098.247 by 1098.247 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 179.161 by 179.161 points 
+Resolution: 803.745 by 803.745 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 6.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 189.237 by 189.237 points 
+Resolution: 760.95 by 760.95 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\social post + advertisemnet 3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11718K, 2000 by 2000 pixels
+Dimensions: 195.678 by 195.678 points 
+Resolution: 735.903 by 735.903 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06419.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 143.281 by 214.921 points 
+Resolution: 452.259 by 452.259 pixels per inch
+
+
+C:\Users\salon\Downloads\DSC06351.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 4746K, 900 by 1350 pixels
+Dimensions: 141.519 by 212.279 points 
+Resolution: 457.888 by 457.888 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\banner2.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 900K, 794 by 387 pixels
+Dimensions: 595.5 by 290.25 points 
+Resolution: 96 by 96 pixels per inch
+
+
+C:\Users\salon\Downloads\email data (1)\email data\banner1.PNG
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3797K, 1666 by 778 pixels
+Dimensions: 643.444 by 300.48 points 
+Resolution: 186.422 by 186.422 pixels per inch
